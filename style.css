@@ -169,3 +169,37 @@ body{
     box-shadow: 10px 10px 40px rgb(228, 224, 224);
     margin-right: 20px;
    }
+
+.form-area{
+  background-image: linear-gradient(red,tomato);
+  padding: 50px;
+  text-align: center;
+}
+.form-area h2{
+  color: white;
+}
+
+   form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+   
+  }
+  
+   form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; 
+    cursor: pointer;
+  }
+   p{
+    color: white;
+    font-size: 14px;
+  }
