@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+    }
+.banner-area{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    background-image: url('donation1.jpg');
+    padding: 100px; 
+    }
+
+.banner-text{
+    text-align: center;
+     margin-top: auto;    
+     }
+.banner-text h1{
+    font-size: 65px;
+    line-height: 30px;
+    color: white;
+    font-weight: 700;
+    }
+.banner-text p{
+    font-size: 18px;
+    line-height: 50px;
+    font-weight: 400;
+    color: white;
+    }
+
+.banner-text img{
+    width: 100%;
+}
+.donate-text{
+    text-align: center;
+}
+.donate-text h2{
+    font-size: 45px;
+    line-height: 10px;
+    color: black;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.donate-text p{
+    font-size: 18px;
+    line-height: 20px;
+    color: #b6aeae;
+    font-weight: 400;  
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.link-button{
+    margin-top: 30px;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    }
+.box-area{
+    display: flex;
+    text-align: center;
+    padding-right:200px;
+    padding-left: 250px;
+     margin-top: 50px;
+}
+.box{ 
+    margin-top: 20px;
+    height: 80px;
+    width: 150px;
+    border: 2px solid #FAFAFA;
+    background-color: #FAFAFA;
+    margin-right: 10px;
+}
+.box h3{
+    font-size: 30px;
+    color:#707070;
+    font-weight: 700;
+    }
+#orange-color{
+    background-color: #FAFAFA;
+    border: 2px solid #FF5959;
+    border-radius: 10px;
+}
+ #custom-text p {
+    border-bottom: 2px solid rgb(204, 197, 197);
+    width: 50%;
+    text-align: center;
+    margin-left: 145px;
+    margin-top: 50px;
+}
+   #donate-button{
+    margin-left: 45%;
+  }
+  .food-box{
+    display: flex;
+    padding-right:100px;
+    padding-left:100px;
+    
+      }
+  .box-item{
+    width:30%;
+    padding: 30px;
+    margin-right:20px;
+    border-radius: 10px;
+
+
+   
+  }
+  .box-item img {
+    width:20%;
+  }
+  #box-color1{
+    background-color: #4F9DA6;
+    
+  }
+  #box-color2{
+    background-color: #f1afe1;
+    
+  }
+  #box-color3{
+    background-color: #f3ffd2;
+    
+  }
+  .gift-area{
+    background-image: url("banner_left_nonholiday_lg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    margin-top: 60px;
+  }
+  .gift-item{
+    float: right;
+    padding: 60px;
+  }
+ .gift-item h2{
+    font-size: 45px;
+    line-height: 28px;
+    color: white;
+ }
+ .gift-item p{
+    font-size: 18px;
+    line-height: 14px;
+    color: white;
+   
+ }
+ .news-area{
+    text-align: center;
+    margin: 50px;
+ }
+ .news-box{
+    display: flex;
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 50px;
+ }
+   .news-item img{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+   }
+
+   .news-item{
+    width: 30%;
+    box-shadow: 10px 10px 40px rgb(228, 224, 224);
+    margin-right: 20px;
+   }
